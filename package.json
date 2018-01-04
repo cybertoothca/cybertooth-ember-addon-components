@@ -1,6 +1,6 @@
 {
   "name": "cybertooth-ember-addon-components",
-  "version": "0.1.0-alpha.0",
+  "version": "0.1.0-alpha.1",
   "description": "A handful of components for Cybertooth.io demo sites.",
   "keywords": [
     "ember-addon"
