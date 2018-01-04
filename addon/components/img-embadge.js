@@ -2,7 +2,7 @@ import Ember from 'ember';
 
 export default Ember.Component.extend({
   alt: 'Ember version range badge.',
-  attributeBindings: ['alt', 'src'],
+  attributeBindings: ['alt', 'src', 'title'],
   /**
    * OPTIONAL.
    * @see https://embadge.io/
