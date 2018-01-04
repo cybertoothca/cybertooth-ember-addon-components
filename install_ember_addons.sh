@@ -10,4 +10,4 @@ ember install ember-cli-document-title
 ember install ember-cli-font-awesome-sass
 ember install ember-cli-release
 
-npm install --save-dev bootswatch@3.3
+#npm install --save-dev bootswatch@3.3
