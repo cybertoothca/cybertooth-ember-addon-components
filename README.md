@@ -1,20 +1,15 @@
 # cybertooth-ember-addon-components
 
-![stability-stable](https://img.shields.io/badge/stability-stable-green.svg) [![npm version](http://badge.fury.io/js/cybertooth-ember-addon-components.svg)](http://badge.fury.io/js/cybertooth-ember-addon-components) ![downloads](https://img.shields.io/npm/dy/cybertooth-ember-addon-components.svg) [![CircleCI](http://circleci.com/gh/cybertoothca/cybertooth-ember-addon-components.svg?style=shield)](http://circleci.com/gh/cybertoothca/cybertooth-ember-addon-components) [![Code Climate](http://codeclimate.com/github/cybertoothca/cybertooth-ember-addon-components/badges/gpa.svg)](http://codeclimate.com/github/cybertoothca/cybertooth-ember-addon-components) ![Dependencies](http://david-dm.org/cybertoothca/cybertooth-ember-addon-components.svg) [![ember-observer-badge](http://emberobserver.com/badges/cybertooth-ember-addon-components.svg)](http://emberobserver.com/addons/cybertooth-ember-addon-components) [![License](http://img.shields.io/npm/l/cybertooth-ember-addon-components.svg)](LICENSE.md)
+Some simple components used to build the demo and documentation websites for cybertooth.io.
 
-## [DOCS](http://docs.cybertooth-ember-addon-components.cybertooth.io)
+**I don't recommend using these as they won't do much for you.**
 
-## [DEMO](http://cybertooth-ember-addon-components.cybertooth.io)
+## Components
 
-### Tested Against
-
-[![ember-lts-2.4](https://img.shields.io/badge/ember--try-ember--lts--2.4-brightgreen.svg)](https://circleci.com/gh/cybertoothca/cybertooth-ember-addon-components)
-[![ember-lts-2.8](https://img.shields.io/badge/ember--try-ember--lts--2.8-brightgreen.svg)](https://circleci.com/gh/cybertoothca/cybertooth-ember-addon-components)
-[![ember-lts-2.12](https://img.shields.io/badge/ember--try-ember--lts--2.12-brightgreen.svg)](https://circleci.com/gh/cybertoothca/cybertooth-ember-addon-components)
-
-[![ember-release](https://img.shields.io/badge/ember--try-ember--release-brightgreen.svg)](https://circleci.com/gh/cybertoothca/cybertooth-ember-addon-components)
-[![ember-beta](https://img.shields.io/badge/ember--try-ember--beta-brightgreen.svg)](https://circleci.com/gh/cybertoothca/cybertooth-ember-addon-components)
-[![ember-canary](https://img.shields.io/badge/ember--try-ember--canary-brightgreen.svg)](https://circleci.com/gh/cybertoothca/cybertooth-ember-addon-components)
+* `a-ember-observer` - create a link to the ember observer package.
+* `addon-badges` - a paragraph full of all the badges for user/organization and repository.
+* `img-embadge` - an img tag; thanks to https://embadge.io/
+* `twbs-navbar` - a demo website navbar that can be used in all cybertooth.io demo sites.
 
 # Collaboration Information
 
