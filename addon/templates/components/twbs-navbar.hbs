@@ -21,11 +21,15 @@
           Docs
         </a>
       </li>
-      <li>
-        <a href="http://demo.{{packageName}}.cybertooth.io">
-          Demo
-        </a>
-      </li>
+      {{#if hasBlock}}
+        {{yield}}
+      {{else}}
+        <li>
+          {{#link-to "index" classNames="navbar-brand"}}
+            Demo
+          {{/link-to}}
+        </li>
+      {{/if}}
       <li>
         <a href="https://github.com/{{organizationName}}/{{packageName}}" target="_blank">
           GitHub
